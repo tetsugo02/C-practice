@@ -8,4 +8,6 @@ int main()
     cout<<"1+2=3"<<endl;
     cout<<"dsoajfow"<<endl;
     int a=1;
+    int b=2;
+    cout<<"a+b"<<endl;
 }
